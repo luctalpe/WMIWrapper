@@ -2,8 +2,8 @@
 #include <string>
 #include <sstream>
 #include <stdexcept>
-#include "IWbemComWrapper.h"
-#include "Instances.h"
+#include "..\WMIWrapper\IWbemComWrapper.h"
+#include "..\WMIWrapper\Instances.h"
 
 static std::stringstream eMessage; 
 
